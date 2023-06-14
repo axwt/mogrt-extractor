@@ -24,6 +24,6 @@ After the steps above, you can use MOGRT Extractor as **Quick Action:**
 
 ## Demo
 
-![Demo Video](./media/action-demo.mp4)
+https://github.com/axwt/mogrt-extractor/assets/32357978/c577233c-c365-4ed2-8ea7-a40b1bab9bdf
 
 ---
